@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   cardImage: {
     flex: 1,
     flexDirection: 'row',
-    backgroundColor: 'grey',
+    backgroundColor: 'transparent',
     alignSelf: 'stretch',
     marginBottom: 16,
     justifyContent: 'center',
