@@ -30,7 +30,7 @@ export default class CardImage extends Component {
     );
   }
 }
-
+//hello
 const styles = StyleSheet.create({
   cardImage: {
     flex: 1,
